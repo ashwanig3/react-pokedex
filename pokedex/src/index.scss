@@ -35,7 +35,7 @@ code {
 }
 .poke-container {
   width: 60%;
-  margin: 30px auto;
+  margin: 20px auto;
   header {
     background-color: orange;
     text-align: right;
@@ -75,4 +75,13 @@ code {
     text-align: center;
   }
 
+}
+
+.search-form {
+  width: 30%;
+  margin: 20px auto;
+  .search-input {
+    width: 100%;
+    padding: 10px;
+  }
 }
